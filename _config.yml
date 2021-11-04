@@ -30,6 +30,21 @@ github_username:  dax1980
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "blog"
+    href:           "/blog"
+  - name:           "resources"
+    href:           "/resources"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
