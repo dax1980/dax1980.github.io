@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Divertiamoci con Jekyll e Github
 
-You can use the [editor on GitHub](https://github.com/dax1980/dax1980.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Eccomi qui.
+Cosa può fare una persona appassionata di tecnologia che vuole provare cosa significhi scrivere un blog?
+Usare qualcosa di preconfezionato **oppure** utilizzare la cassetta degli attrezzi e cercare di fare le cose da solo??
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La seconda che hai detto, esatto.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dax1980/dax1980.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+La domanda a questo punto nasce spontanea... ma chi me lo ha fatto fare??
+Probabilmente abbandonerò a breve questo spazio, troppo sbattimento, ma intanto proseguo con un po' di test
