@@ -21,7 +21,7 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://dax1980.github.io"
 author: dax
   name: dax
-  twitter: 
+  twitter:
   picture:
 twitter_username:
 github_username: dax1980
@@ -37,7 +37,8 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
