@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Divertiamoci con Jekyll
-email: esempio@example.com
+email: "esempio@example.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog per divertirsi con le basi della programmazione
 baseurl: "" # the subpath of your site, e.g. /blog
