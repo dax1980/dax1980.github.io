@@ -3,7 +3,6 @@ ayout: post
 title:  "Grandi casini"
 date:   2021-11-05 11:30:00 +0100
 categories: blog
-tags: [casini]
 ---
 
 ## Grandi casini

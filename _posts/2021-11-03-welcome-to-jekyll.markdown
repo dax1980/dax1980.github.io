@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BENVENUTI!"
+title:  "Benvenuti!"
 date:   2021-11-03 17:30:31 +0100
 categories: jekyll update
 ---
