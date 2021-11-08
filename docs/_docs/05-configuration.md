@@ -904,9 +904,9 @@ Author links are all optional, include the ones you want visible under the `auth
 
 ```yaml
 author:
-  name: "Your Name"
+  name: "dax1980"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "Sono **io**" # Note: Markdown is allowed
   location: "Somewhere"
   links:
     - label: "Made Mistakes"
