@@ -23,9 +23,9 @@ Ho così voluto provare con [Jekyll](https://jekyllrb.com/), un generatore di si
 
 Sono su un portatile con Windows 10 (anzi 11, aggiornato da pochissimo) abbastanza datato, niente di estremamente performante.
 Ho installato:
--[Ruby dev. kit](https://rubyinstaller.org/downloads/), obbligatorio per far funzionare il tutto;
--Github desktop, non fondamentale ma consigliato, per pubblicare online le modifiche fatte in locale;
--[Atom](https://atom.io/), per gestire i file e come editor di testo. Anche in questo caso ognuno può scegliere l'editor che preferisce, ce ne sono tantissimi.
+* [Ruby dev. kit](https://rubyinstaller.org/downloads/), obbligatorio per far funzionare il tutto;
+* Github desktop, non fondamentale ma consigliato, per pubblicare online le modifiche fatte in locale;
+* [Atom](https://atom.io/), per gestire i file e come editor di testo. Anche in questo caso ognuno può scegliere l'editor che preferisce, ce ne sono tantissimi.
 
 Per ultimo ho scelto un tema grafico, [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/), e l'ho personalizzato fino a dove ho potuto con le mie limitate conoscenze di programmazione.
 
