@@ -1,5 +1,5 @@
 ---
-title: "Quando "piccolo" era bello"
+title: "Quando piccolo era bello"
 categories:
   - Blog
 tags:
